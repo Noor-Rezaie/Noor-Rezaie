@@ -1,6 +1,3 @@
-Here's a completed and polished version of your GitHub profile README, incorporating your current work on "TeamSync" (team management platform in Persian) and improvements for clarity and professionalism:
-
-```markdown
 # Hello, I'm Noorullah Rezaie! 👋
 
 🌟 **MERN Stack Developer | Full-Stack Web Development Specialist**  
@@ -78,6 +75,3 @@ Browse all my public projects on GitHub!
 ---
 
 Let’s connect and build something amazing together! 🚀
-```
-
-You can copy and paste this directly into your `README.md` file. If you have a GitHub repo or demo link for TeamSync, you can add that under the TeamSync section for more visibility! Let me know if you want to personalize it further.
